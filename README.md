@@ -14,17 +14,6 @@
 
 ---
 
-## 📂 Projetos em Destaque
-
-- 🔗 [Sistema de Controle de Estoque](https://github.com/seuusuario/estoque)  
-- 🔗 [Aplicativo de Agenda Acadêmica](https://github.com/seuusuario/agenda)  
-- 🔗 [Dashboard de Análise de Dados](https://github.com/seuusuario/dashboard)  
-- 🔗 [API para Biblioteca Universitária](https://github.com/seuusuario/biblioteca-api)  
-
----
-
----
-
 ## 📫 Como me encontrar  
 
 [![LinkedIn](www.linkedin.com/in/lucasbarcarol)
