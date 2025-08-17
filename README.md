@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou o Lucas Barcarol 👋
 
-<!--
-**LucasBarcarol/LucasBarcarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**  
+💻 Aprendendo programação em **C** e **Java**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Sou apaixonado por tecnologia e estou sempre buscando aprender mais sobre desenvolvimento de sistemas. Atualmente, estou focado em aprimorar meus conhecimentos em C e Java, explorando projetos acadêmicos e pessoais para evoluir como desenvolvedor.
+
+---
+
+## 📚 Tecnologias que estou aprendendo
+
+- C
+- Java
+
+---
+
+## 🚀 Contato
+
+- Instagram: [@barcarol_lucas](https://www.instagram.com/barcarol_lucas/)
+
+---
+
+*Em busca de conhecimento e novas oportunidades!*
